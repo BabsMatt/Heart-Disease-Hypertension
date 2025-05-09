@@ -1,4 +1,4 @@
 streamlit
 pandas
 scikit
-statsmodels.api as sm
+statsmodels
